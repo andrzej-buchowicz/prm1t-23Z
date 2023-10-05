@@ -1,1 +1,2 @@
-# prm1t-23Z
+# Podstawy programowania 1 - semestr 23Z
+
