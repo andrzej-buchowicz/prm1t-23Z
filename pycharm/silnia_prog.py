@@ -1,6 +1,7 @@
 from silnia import silnia_iter
 
 
+
 # to jest komentarz
 def main():
     while True:
