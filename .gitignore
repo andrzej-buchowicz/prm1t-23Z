@@ -3,3 +3,4 @@
 /data/przedmioty.txt
 /pycharm/.idea
 /pycharm/__pycache__
+/data/*.json
