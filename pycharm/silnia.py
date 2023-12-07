@@ -12,11 +12,11 @@ def silnia_rekur(n):
         return 1
 
 
-# def main():
-for n in range(10):
-    print(n, silnia_iter(n), silnia_rekur(n))
+def main():
+    for n in range(10):
+        print(n, silnia_iter(n), silnia_rekur(n))
 
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
 
