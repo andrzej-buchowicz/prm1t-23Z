@@ -1,6 +1,6 @@
 import unittest
 
-from linked_list import LinkedList, Element
+from data_struct.linked_list import LinkedList, Element
 
 
 class TestLinkedList(unittest.TestCase):
@@ -9,6 +9,9 @@ class TestLinkedList(unittest.TestCase):
 
     def tearDown(self):
         self.llist = None
+
+    def test_init(self):
+        self.assertEqual(len(self.llist), 0)
 
     def test_append(self):
         self.llist.append((Element(1)))
