@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 /data/*.bin
+/data/*.png
 /data/przedmioty.txt
 /pycharm/.idea
 /pycharm/__pycache__
